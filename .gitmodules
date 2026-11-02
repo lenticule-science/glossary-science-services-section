@@ -1,4 +1,4 @@
-[submodule "term-services"]
+[submodule "services/term-services"]
 	path = services/term-services
 	url = https://github.com/lenticule-science/term-science-services-section.git
 	branch = main
